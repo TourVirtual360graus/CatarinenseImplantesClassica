@@ -3,33 +3,41 @@
 ## Action
 
 ### URL
-LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=554792200801
 LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=554792200801
-LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=554792200801
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=554792200801
 LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=554792200801
-LinkBehaviour_2552E8D3_3C32_DC11_41B6_221D86C1F04B.source = https://catarinenseimplantes.com.br/unidade/joinville-classica/
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=554792200801
 LinkBehaviour_29225FC2_3C32_5472_41C9_DBCC97E9DAC6.source = https://catarinenseimplantes.com.br/unidade/joinville-classica/
-LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJmwH-c0mw3pQR7QPSMiDiD2w
+LinkBehaviour_2552E8D3_3C32_DC11_41B6_221D86C1F04B.source = https://catarinenseimplantes.com.br/unidade/joinville-classica/
 LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJmwH-c0mw3pQR7QPSMiDiD2w
-LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/catarinenseimplantesclassica
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJmwH-c0mw3pQR7QPSMiDiD2w
 LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/catarinenseimplantesclassica
-LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Cl%C3%ADnica+Odontol%C3%B3gica+Catarinense+-+Integrada+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030559,-48.8456848,15z/data=!4m2!3m1!1s0x0:0x295c3f4922f8e294?sa=X&ved=2ahUKEwjG34jQjpz6AhXwpZUCHXKMAVUQ_BJ6BAhcEAU
-LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Cl%C3%ADnica+Odontol%C3%B3gica+Catarinense+-+Integrada+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030559,-48.8456848,15z/data=!4m2!3m1!1s0x0:0x295c3f4922f8e294?sa=X&ved=2ahUKEwjG34jQjpz6AhXwpZUCHXKMAVUQ_BJ6BAhcEAU
-LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/catarinenseimplantesclassica/
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/catarinenseimplantesclassica
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Catarinense+Implantes+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030278,-48.8475551,18z/data=!4m9!1m2!2m1!1sCl%C3%ADnica+de+implante+dent%C3%A1rio!3m5!1s0x94deb04973fe019b:0x6c0fe22032d203ed!8m2!3d-26.3030278!4d-48.8457146!15sCh5DbMOtbmljYSBkZSBpbXBsYW50ZSBkZW50w6FyaW-SARhkZW50YWxfaW1wbGFudHNfcHJvdmlkZXLgAQA
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Catarinense+Implantes+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030278,-48.8475551,18z/data=!4m9!1m2!2m1!1sCl%C3%ADnica+de+implante+dent%C3%A1rio!3m5!1s0x94deb04973fe019b:0x6c0fe22032d203ed!8m2!3d-26.3030278!4d-48.8457146!15sCh5DbMOtbmljYSBkZSBpbXBsYW50ZSBkZW50w6FyaW-SARhkZW50YWxfaW1wbGFudHNfcHJvdmlkZXLgAQA
 LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/catarinenseimplantesclassica/
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/catarinenseimplantesclassica/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_58042929_4C07_7655_41AC_B3C778DD4170.text = R. Eng. Niemeyer, 15
 
 ## Media
 
 ### Audio
 audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B.path = null
 audio_278A3987_3C75_FCF2_41CC_A4890571A4E8.path = null
-audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB.path = null
+audio_54AAEA6F_4C02_8AAD_41BB_4AD5251F4613.path = null
 audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.mp3Url = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.mp3
 audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.oggUrl = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.ogg
 audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.mp3Url = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.mp3
 audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.oggUrl = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.ogg
-audiores_59966645_4C06_BADD_41C2_C1BE2A58C651.mp3Url = media/audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB_pt.mp3
-audiores_59966645_4C06_BADD_41C2_C1BE2A58C651.oggUrl = media/audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB_pt.ogg
+audiores_55B575E4_4C02_B9D2_419C_5E3B3F0B6710.mp3Url = media/audio_54AAEA6F_4C02_8AAD_41BB_4AD5251F4613_pt.mp3
+audiores_55B575E4_4C02_B9D2_419C_5E3B3F0B6710.oggUrl = media/audio_54AAEA6F_4C02_8AAD_41BB_4AD5251F4613_pt.ogg
+
+### Image
+imlevel_5A0550E4_4C02_B7D2_41BB_3B42E777C753.url = media/panorama_47B6BC4C_4C02_8ED3_41D2_E8A95151D4F0_HS_q364uz0c_pt.png
 
 ### Title
 panorama_40D5C44D_4C01_BEED_41C9_7BD4DDCC4498.label = 1-DeNoiseAI-standard
