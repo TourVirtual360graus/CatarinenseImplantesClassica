@@ -1,0 +1,98 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=554792200801
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=554792200801
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=554792200801
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=554792200801
+LinkBehaviour_2552E8D3_3C32_DC11_41B6_221D86C1F04B.source = https://catarinenseimplantes.com.br/unidade/joinville-classica/
+LinkBehaviour_29225FC2_3C32_5472_41C9_DBCC97E9DAC6.source = https://catarinenseimplantes.com.br/unidade/joinville-classica/
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJmwH-c0mw3pQR7QPSMiDiD2w
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJmwH-c0mw3pQR7QPSMiDiD2w
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/catarinenseimplantesclassica
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/catarinenseimplantesclassica
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Cl%C3%ADnica+Odontol%C3%B3gica+Catarinense+-+Integrada+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030559,-48.8456848,15z/data=!4m2!3m1!1s0x0:0x295c3f4922f8e294?sa=X&ved=2ahUKEwjG34jQjpz6AhXwpZUCHXKMAVUQ_BJ6BAhcEAU
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Cl%C3%ADnica+Odontol%C3%B3gica+Catarinense+-+Integrada+-+Pr%C3%B3teses+e+Implantes+Dent%C3%A1rios/@-26.3030559,-48.8456848,15z/data=!4m2!3m1!1s0x0:0x295c3f4922f8e294?sa=X&ved=2ahUKEwjG34jQjpz6AhXwpZUCHXKMAVUQ_BJ6BAhcEAU
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/catarinenseimplantesclassica/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/catarinenseimplantesclassica/
+
+## Media
+
+### Audio
+audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B.path = null
+audio_278A3987_3C75_FCF2_41CC_A4890571A4E8.path = null
+audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB.path = null
+audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.mp3Url = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.mp3
+audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.oggUrl = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.ogg
+audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.mp3Url = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.mp3
+audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.oggUrl = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.ogg
+audiores_59966645_4C06_BADD_41C2_C1BE2A58C651.mp3Url = media/audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB_pt.mp3
+audiores_59966645_4C06_BADD_41C2_C1BE2A58C651.oggUrl = media/audio_5E99902D_4C06_F6AD_41D2_31ABFFDEDCDB_pt.ogg
+
+### Title
+panorama_40D5C44D_4C01_BEED_41C9_7BD4DDCC4498.label = 1-DeNoiseAI-standard
+panorama_47B49230_4C01_9AB3_41C7_9694B7B7AB8B.label = 10-DeNoiseAI-standard
+panorama_58AFA3FF_4C02_F9AD_41C0_333D4271018A.label = 11-DeNoiseAI-standard
+panorama_47B5A29B_4C01_7A75_41C4_3C67C3E9C554.label = 12 tirar rosto-DeNoiseAI-standard
+panorama_47B46ABA_4C02_8BB7_41C2_B964BCBFF157.label = 13-DeNoiseAI-standard
+panorama_580ADD19_4C02_8E75_41B0_BE08E8AD0AD1.label = 14-DeNoiseAI-standard
+panorama_47B58B54_4C02_8AF3_41D1_D20E2388E1E1.label = 15.1-DeNoiseAI-standard
+panorama_47B5F343_4C02_BAD5_41B8_762ED773C585.label = 16-DeNoiseAI-standard
+panorama_47B6EF1B_4C01_8A75_41CE_D2EE99C6A698.label = 2-DeNoiseAI-standard
+panorama_47B58778_4C01_9AB3_41C6_C31CFEA1FBFA.label = 3-DeNoiseAI-standard
+panorama_47B56FD4_4C01_89F3_41C8_A9181E65DCB9.label = 4-DeNoiseAI-standard
+panorama_47B54831_4C01_F6B5_4181_DA4C7D744269.label = 5-DeNoiseAI-standard
+panorama_47B560FB_4C01_97B5_41AD_1617181C0838.label = 6-DeNoiseAI-standard
+panorama_47B42958_4C01_96F3_41B7_F915F312AC7B.label = 7-DeNoiseAI-standard
+panorama_47B4A196_4C01_B67F_41B8_DB3D342EAF8E.label = 8-DeNoiseAI-standard
+panorama_47B4BA50_4C01_8AF3_41C8_26BEB2BA3CA5.label = 9-DeNoiseAI-standard
+panorama_47B6BC4C_4C02_8ED3_41D2_E8A95151D4F0.label = céu final-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = AGENDAMENTO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = AGENDAMENTO
+
+### Image
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile.path = null
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile_pt.png
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile.url = skin/Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile_pt.png
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404.url = skin/Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual em Nossa Unidade
+
+### Title
+tour.name = Catarinense Implantes Iririú
